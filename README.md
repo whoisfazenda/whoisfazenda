@@ -20,10 +20,8 @@ src="https://img.shields.io/github/followers/whoisfazenda?logo=github&style=for-
 </p>
 
 ### Socials
-
 <p align="left"> <a href="https://www.github.com/whoisfazenda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/whoisfazenda"><img src="https://github-readme-stats.vercel.app/api?username=whoisfazenda&show_icons=true&hide=prs,&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="whoisfazenda's GitHub stats" /></a>
 <a href="http://www.github.com/whoisfazenda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=whoisfazenda&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
