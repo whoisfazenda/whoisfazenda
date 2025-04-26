@@ -7,7 +7,7 @@ some web and python developer 👻
 * 🌍  I'm based in Russia / Kaliningrad
 * 🖥️  See my portfolio at [my web site](http://whoisfazenda.ru)
 * ✉️  You can contact me at [whoisfazenda@gmail.com](mailto:whoisfazenda@gmail.com)
-* 🚀  I'm currently working on [Circle Translator]([http://whoisfazenda/circletranslater](https://github.com/whoisfazenda/circletranslater))
+* 🚀  I'm currently working on [Circle Translator](https://github.com/whoisfazenda/circletranslater)
 * 🧠  I'm learning Python, Java, HTML
 * ⚡  skibidi wapapa
 
